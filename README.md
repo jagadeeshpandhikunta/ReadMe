@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imjagadeeshreddy
+- 👋 Hi, I’m @jagadeeshreddy
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Cloud Architect projects
