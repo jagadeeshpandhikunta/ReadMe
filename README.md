@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jagadeeshreddy
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Full Stack Web Development projects
+- Hi, I’m @jagadeeshreddy
+- I’m interested in Tech
+- I’m currently learning Web Development
+- I’m looking to collaborate on Full Stack Web Development projects
+- Connect me on https://www.linkedin.com/in/jagadeeshreddyp/
 
 
 <!---
